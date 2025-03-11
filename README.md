@@ -1,1 +1,2 @@
-Practicing HTML building a basic recipe website. I will improved my HTML and basic git skills once I finish this project.
+Practicing HTML building a basic recipe website. I will have improved my HTML and basic git skills once I finish this project.
+I became more familiar with writing basic html boilerplate, using images, links, lists, and basic git commmands.
